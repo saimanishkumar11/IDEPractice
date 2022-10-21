@@ -4,6 +4,7 @@ public class SubMasterClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Its a Sub Master Branch");
+		System.out.println("Class created after switching to SubMasterBranch");
 
 	}
 
